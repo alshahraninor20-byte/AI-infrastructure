@@ -1,0 +1,6 @@
+{
+  "kind": "discrete",
+  "usable_gb": 7.0,
+  "max_b_fp16": 2.8,
+  "max_b_int4": 11.0
+}
